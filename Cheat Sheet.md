@@ -680,7 +680,7 @@ Wordpress
 
 
 ```
-wpscan --url http://10.10.110.100:65000/wordpress --api-token F2NsCSEdqiUDAbUo2MsdaJLgnUbH78qZJK1sshgLpmE -e ap,at,tt,cb,dbe,u,m --plugins-detection aggressive
+wpscan --url http://10.10.110.100:65000/wordpress --api-token <api-token> -e ap,at,tt,cb,dbe,u,m --plugins-detection aggressive
 
 
 wpscan --url example.com -e u --passwords /usr/share/wordlists/rockyou.txt
