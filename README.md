@@ -1,7 +1,6 @@
 # OSCP Preparation Cheat Sheet
 
-This repository contains a consolidated **OSCP exam preparation cheat sheet** and a **checklist** to streamline penetration testing workflows.  
-It is intended as a personal reference guide for enumeration, exploitation, and privilege escalation during OSCP studies and practice labs.
+This repository contains a consolidated **OSCP exam preparation cheat sheet**, a **checklist**, and my **progress tracker** for Proving Grounds, Hack The Box, and related labs. The goal is to streamline penetration testing workflows and track progress while studying for the OSCP and related certifications.
 
 ---
 
@@ -21,6 +20,13 @@ It is intended as a personal reference guide for enumeration, exploitation, and 
   - Web application testing workflow
   - Privilege escalation checks
   - Windows AD attacks and post-exploitation tasks
+
+- **Progress Tracker.md** – Completion tracker for:
+  - Proving Grounds (Practice & Play)
+  - Hack The Box
+  - Dante Pro Lab
+  - Challenges
+  - AWS/HTB Cloud
 
 ---
 
